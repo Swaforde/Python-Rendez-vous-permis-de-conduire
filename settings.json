@@ -1,11 +1,11 @@
 {
-	"senderEmailJson": "theo25.bouverat@gmail.com",
-	"targetEmailJson": "alexandre.estvs@eduge.ch",
+	"senderEmailJson": "",
+	"targetEmailJson": "",
 	"idJson" : "9158163",
 	"ddJson" : "08",
 	"mmJson" : "02",
 	"aaaaJson" : "2004",
 	"moveButton": "/html/body/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[4]/td/table/tbody/tr[2]/td[1]/a",
-	"passwordJson": "Top2020-!+",
+	"passwordJson": "",
 	"maxWeek": "Lu: 23.05.2022"
 }
