@@ -1,0 +1,16 @@
+Documentation settings.json
+
+- "senderEmailJson" : adresse e-mail d'envoie (gmail obligatoire)
+- "targetEmailJson" : adresse e-mail de réception de la notification "Rendez vous disponnible"
+- "idJson" : vôtre numéro de permis élève
+- "ddJson" :
+- "mmJson" :
+- "aaaaJson" :
+- "moveButton" : chemin XPath du bouton "déplacer" pour les déplacer les rendez vous
+- "passwordJson" : mot de passe de vôtre compte google
+- "maxWeek" : semaine du lundi (ex : Lu: 15.11.2021) maximum pour le parcours du robot. Une fois la semaine du lundi 15.11.2021
+le bot recommencera. Format OBLIGATOIRE : Lu: jj.mm.aaaa
+
+Lancer le programme et ne toucher plus à rien 
+
+https://www.google.com/settings/security/lesssecureapps
