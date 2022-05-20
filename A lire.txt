@@ -6,11 +6,13 @@ Documentation settings.json
 - "ddJson" :
 - "mmJson" :
 - "aaaaJson" :
-- "moveButton" : chemin XPath du bouton "déplacer" pour les déplacer les rendez vous
+- "moveButton" : chemin XPath du bouton "déplacer" pour les déplacer les rendez vous après avoir.
 - "passwordJson" : mot de passe de vôtre compte google
 - "maxWeek" : semaine du lundi (ex : Lu: 15.11.2021) maximum pour le parcours du robot. Une fois la semaine du lundi 15.11.2021
 le bot recommencera. Format OBLIGATOIRE : Lu: jj.mm.aaaa
 
 Lancer le programme et ne toucher plus à rien 
+
+Télécharger le chromedriver.exe selon votre version de chrome : https://chromedriver.chromium.org/downloads. Metre l'executable sous le nom de chromedriver.exe dans le dossier du bot
 
 https://www.google.com/settings/security/lesssecureapps
